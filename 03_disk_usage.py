@@ -1,5 +1,6 @@
 import shutil
 import sys
+import os
 
 def check_disk_usage(disk, min_absolute,min_percent):
     """Returns True if there is enough free disk space, false otherwise."""
