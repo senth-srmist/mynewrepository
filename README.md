@@ -1,1 +1,1 @@
-A sample repo for class
+A sample repo for class purposes
